@@ -1,5 +1,5 @@
 <h3>Opa, bão? 🎃 </h3>
-<h3>Eu sou o Vinícius, tenho 16 anos, sou lindo e</h3><h1>EU AMO MINHA NAMORADA</h1>.
+<h3>Eu sou o Vinícius, tenho 16 anos, sou lindo e</h3><h1>EU AMO A MINHA NAMORADA</h1>.
 
 <!--
 **vini0907/vini0907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
