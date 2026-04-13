@@ -1,5 +1,7 @@
-<h3>Opa, bão? 🎃 </h3>
+<h3>🎃 </h3>
 <h3>Eu sou o Vinícius</h3>.
+<h3>Fiz o Técnico Integrado em Informática no IF do Sudeste de MG no Campus RP</h3>
+<h3>Estou cursando agora o Bacharelado em Ciência da Computação</h3>
 
 <!--
 **vini0907/vini0907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
